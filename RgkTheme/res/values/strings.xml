@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Theme</string>
+    <string name="set_success">Theme changed successful!</string>
+</resources>

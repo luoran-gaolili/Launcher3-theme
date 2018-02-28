@@ -1,0 +1,2 @@
+#add by luoran for theme change
+$(call inherit-product, vendor/ragentek/$(MTK_TARGET_PROJECT)/themes/ThemesFile.mk)

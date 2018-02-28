@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <skip/>
+    <string name="app_name">لانچر3</string>
+    <string name="folder_name"/>
+    <string name="work_folder_name">"دفتری"</string>
+    <string name="activity_not_found"/>
+    <string name="activity_not_available"/>
+    <string name="safemode_shortcut_error">محفوظ موڈ میں ڈاؤن لوڈ کردہ ایپ غیرفعال ہے</string>
+    <string name="safemode_widget_error">"ویجیٹسکومحفوظوضعمیںغیرفعالکردیاگیا"</string>
+    <string name="long_press_widget_to_add">وڈجیٹ اٹھانے کے لئے چھوئيں اور پکڑیں.</string>
+    <string name="long_accessible_way_to_add"/>
+    <string name="widget_dims_format"/>
+    <string name="all_apps_search_bar_hint"/>
+    <string name="all_apps_loading_message"/>
+    <string name="all_apps_no_search_results"/>
+    <string name="all_apps_search_market_message"/>
+    <skip/>
+    <string name="out_of_space">اس ہوم اسکرین میں مزید جگہ نہيں.</string>
+    <string name="hotseat_out_of_space">پسندیدہ کے ٹرے میں مزید جگہ نہیں ہے</string>
+    <string name="all_apps_button_label">"ایپس"</string>
+    <string name="all_apps_home_button_label">ہوم اسکرین</string>
+    <string name="delete_target_label">خارجکرنا</string>
+    <string name="delete_target_uninstall_label">"اَنانسٹالکریں"</string>
+    <string name="info_target_label">"ایپ کی معلومات"</string>
+    <skip/>
+    <string name="permlab_install_shortcut">"شارٹ کٹس انسٹال کریں"</string>
+    <string name="permdesc_install_shortcut">اس کے ذریعے کوئی ایپ صارف کی مداخل کے بغیر شارٹ کٹ شامل کرسکتا ہے.</string>
+    <string name="permlab_read_settings">ہوم ترتیبات اور شارٹ کٹ پڑھیں</string>
+    <string name="permdesc_read_settings">"ایپکوہوممیںترتیباتاورشارٹکٹسکوپڑھنےکیاجازتدیتاہے۔"</string>
+    <string name="permlab_write_settings">ہوم ترتیبات اور شارٹ کٹ لکھیں</string>
+    <string name="permdesc_write_settings">"ایپکوہوممیںترتیباتاورشارٹکٹسکوتبدیلکرنےکیاجازتدیتاہے۔"</string>
+    <string name="msg_no_phone_permission"/>
+    <skip/>
+    <string name="gadget_error_text">وڈجیٹ لوڈ کرنے میں مسئلہ</string>
+    <string name="gadget_setup_text">سیٹاپ</string>
+    <string name="uninstall_system_app_text"/>
+    <string name="folder_hint_text">بے نام فولڈر</string>
+    <skip/>
+    <string name="default_scroll_format">صفحہ %2$d میں سے 12$d</string>
+    <string name="workspace_scroll_format">ہوم اسکرین %1$d از %2$d</string>
+    <string name="workspace_new_page"/>
+    <string name="first_run_cling_title">خوش آمدید</string>
+    <string name="migration_cling_title">اپنے ایپ کے آئیکنز کاپی کریں</string>
+    <string name="migration_cling_description">اپنے پرانے ہوم اسکرینس سے آئیکنز اور فولڈرز درآمد کریں؟</string>
+    <string name="migration_cling_copy_apps">آئیکنز کو کاپی کریں</string>
+    <string name="migration_cling_use_default">تازہ شروعات کریں</string>
+    <string name="workspace_cling_longpress_title">وال پیپرز، ویجٹس، اور سیٹنگز</string>
+    <string name="workspace_cling_longpress_description">حسب ضرورت بنانے کے لیے پس منظر کو چھوئیں اور پکڑے رکھیں</string>
+    <string name="workspace_cling_longpress_dismiss">سمجھ گیا</string>
+    <string name="folder_opened">فولڈر کھولا گیا <xliff:g id="width" example="5">%1$d</xliff:g> بذریعہ <xliff:g id="height" example="3">%2$d</xliff:g> </string>
+    <string name="folder_tap_to_close">فولڈر منتخب کرنے کیلئے چھوئیں</string>
+    <string name="folder_tap_to_rename">نام تبدیل کرنا محفوظ کرنے کیلئے چھوئیں</string>
+    <string name="folder_closed">فولڈر بند ہوگیا</string>
+    <string name="folder_renamed">فولڈر بنام <xliff:g id="name" example="Games">%1$s</xliff:g> </string>
+    <string name="folder_name_format">فولڈر: <xliff:g id="name" example="Games">%1$s</xliff:g> </string>
+    <string name="widget_button_text">وڈجیٹ</string>
+    <string name="wallpaper_button_text">والپیپر</string>
+    <string name="settings_button_text">"ترتیبات"</string>
+    <string name="msg_disabled_by_admin"/>
+    <string name="allow_rotation_title">"گردشکیاجازتدیں"</string>
+    <string name="package_state_unknown">نامعلوم</string>
+    <string name="abandoned_clean_this">خارجکرنا</string>
+    <string name="abandoned_search">تلاشکریں</string>
+    <string name="abandoned_promises_title">"یہ ایپ انسٹال کردہ نہیں ہے"</string>
+    <string name="abandoned_promise_explanation"/>
+    <string name="app_downloading_title"/>
+    <string name="app_waiting_download_title"/>
+    <string name="action_add_to_workspace">ہوم اسکرین میں شامل کریں</string>
+    <string name="action_move_here">"آئٹمیہاںمنتقلکریں"</string>
+    <string name="item_added_to_workspace">"آئٹمکوہوماسکرینمیںشاملکردیاگیا"</string>
+    <string name="item_removed">"آئٹمہٹادیاگیا"</string>
+    <string name="action_move">"آئٹممنتقلکریں"</string>
+    <string name="move_to_empty_cell">"قطار<xliff:g id="NUMBER_0">%1$s</xliff:g>کالم<xliff:g id="NUMBER_1">%2$s</xliff:g>میںمنتقلکریں"</string>
+    <string name="move_to_position">"پوزیشن<xliff:g id="NUMBER">%1$s</xliff:g>میںمنتقلکریں"</string>
+    <string name="move_to_hotseat_position">"پسندیدہپوزیشن<xliff:g id="NUMBER">%1$s</xliff:g>میںمنتقلکریں"</string>
+    <string name="item_moved">"آئٹممنتقلکردیاگیا"</string>
+    <string name="add_to_folder">"فولڈرمیںشاملکریں:<xliff:g id="NAME">%1$s</xliff:g>"</string>
+    <string name="add_to_folder_with_app">"<xliff:g id="NAME">%1$s</xliff:g>کےفولڈرمیںشاملکریں"</string>
+    <string name="added_to_folder">"آئٹمفولڈرمیںشاملکردیاگیا"</string>
+    <string name="create_folder_with">"اسکےساتھفولڈربنائیں:<xliff:g id="NAME">%1$s</xliff:g>"</string>
+    <string name="folder_created">"فولڈربنادیاگیا"</string>
+    <string name="action_move_to_workspace">"ہوماسکرینمیںمنتقلکریں"</string>
+    <string name="action_move_screen_left">"اسکرینکوبائیںمنتقلکریں"</string>
+    <string name="action_move_screen_right">"اسکرینکودائیںمنتقلکریں"</string>
+    <string name="screen_moved">"اسکرینمنتقلکردیگئی"</string>
+    <string name="action_resize">سائز تبدیل کريں</string>
+    <string name="action_increase_width">"چوڑائیبڑھائیں"</string>
+    <string name="action_increase_height">"اونچائیبڑھائیں"</string>
+    <string name="action_decrease_width">"چوڑائیکمکریں"</string>
+    <string name="action_decrease_height">"اونچائیکمکریں"</string>
+    <string name="widget_resized">"ویجیٹکےسائزکوچوڑائی<xliff:g id="NUMBER_0">%1$s</xliff:g>اونچائی<xliff:g id="NUMBER_1">%2$s</xliff:g>میںتبدیلکردیاگیا"</string>
+</resources>

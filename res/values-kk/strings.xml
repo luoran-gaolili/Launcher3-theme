@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <skip/>
+    <string name="app_name">Launcher3</string>
+    <string name="folder_name"/>
+    <string name="work_folder_name">"Жұмыс"</string>
+    <string name="activity_not_found"/>
+    <string name="activity_not_available"/>
+    <string name="safemode_shortcut_error">Жүктелген бағдарлама Қауіпсіз режимде өшірілді</string>
+    <string name="safemode_widget_error">"Қауіпсізрежимдевиджеттерөшіріледі"</string>
+    <string name="long_press_widget_to_add">Виджетті таңдау үшін түртіп, ұстап тұрыңыз.</string>
+    <string name="long_accessible_way_to_add"/>
+    <string name="widget_dims_format"/>
+    <string name="all_apps_search_bar_hint"/>
+    <string name="all_apps_loading_message"/>
+    <string name="all_apps_no_search_results"/>
+    <string name="all_apps_search_market_message"/>
+    <skip/>
+    <string name="out_of_space">Бұл басты экрандарда бос бөлме жоқ.</string>
+    <string name="hotseat_out_of_space">Таңдаулылар науасында бөліктер қалмады</string>
+    <string name="all_apps_button_label">"Қолданбалар"</string>
+    <string name="all_apps_home_button_label">Бастапқы бет</string>
+    <string name="delete_target_label">"Алыптастау"</string>
+    <string name="delete_target_uninstall_label">"Алмау"</string>
+    <string name="info_target_label">"ҚОЛДАНБА ТУРАЛЫ АҚПАРАТ"</string>
+    <skip/>
+    <string name="permlab_install_shortcut">"төте пернелерді орнату"</string>
+    <string name="permdesc_install_shortcut">Пайдаланушының араласуынсыз ярлыктарды қосуға мүмкіндік береді.</string>
+    <string name="permlab_read_settings">Басты бет параметрлері мен ярлыктарын оқу</string>
+    <string name="permdesc_read_settings">"ҚолданбағаНегізгіэкрандағыпараметрлерментөтепернелердіоқумүмкіндігінбереді."</string>
+    <string name="permlab_write_settings">Басты бет параметрлері мен ярлыктарын жазу</string>
+    <string name="permdesc_write_settings">"ҚолданбағаНегізгіэкрандағыпараметрлерментөтепернелердіөзгертумүмкіндігінбереді."</string>
+    <string name="msg_no_phone_permission"/>
+    <skip/>
+    <string name="gadget_error_text">Виджетті жүктеу ақаулығы</string>
+    <string name="gadget_setup_text">"Орнату"</string>
+    <string name="uninstall_system_app_text"/>
+    <string name="folder_hint_text">Аты жоқ қалта</string>
+    <skip/>
+    <string name="default_scroll_format">%d бет</string>
+    <string name="workspace_scroll_format">Басты бет %1$d / %2$d</string>
+    <string name="workspace_new_page"/>
+    <string name="first_run_cling_title">Хош келдіңіз</string>
+    <string name="migration_cling_title">Бағдарлама белгішелерін көшіру</string>
+    <string name="migration_cling_description">Ескі Басты экрандардан белгішелер мен қалталарды импорттау қажет пе?</string>
+    <string name="migration_cling_copy_apps">БЕЛГІШЕЛЕРДІ КӨШІРУ</string>
+    <string name="migration_cling_use_default">ЖАҢАРТУДЫ БАСТАУ</string>
+    <string name="workspace_cling_longpress_title">Тұсқағаздар, виджеттер және параметрлер</string>
+    <string name="workspace_cling_longpress_description">Теңшеу үшін фонды түртіп ұстап тұрыңыз</string>
+    <string name="workspace_cling_longpress_dismiss">ДАЙЫН</string>
+    <string name="folder_opened">Қалта ашылды, <xliff:g id="width" example="5">%1$d</xliff:g> by <xliff:g id="height" example="3">%2$d</xliff:g></string>
+    <string name="folder_tap_to_close">Қалтаны жабу үшін, түртіңіз.</string>
+    <string name="folder_tap_to_rename">Өзгертілген атты сақтау үшін, түртіңіз</string>
+    <string name="folder_closed">"Жабық"</string>
+    <string name="folder_renamed">Қалтаның аты <xliff:g id="name" example="Games">%1$s</xliff:g> болып өзгертілді</string>
+    <string name="folder_name_format">Қалта: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+    <string name="widget_button_text">Виджеттер</string>
+    <string name="wallpaper_button_text">Тұсқағаздар</string>
+    <string name="settings_button_text">"Параметрлер"</string>
+    <string name="msg_disabled_by_admin"/>
+    <string name="allow_rotation_title">"Айналуғарұқсатету"</string>
+    <string name="package_state_unknown">"Белгісіз"</string>
+    <string name="abandoned_clean_this">"Алыптастау"</string>
+    <string name="abandoned_search">Іздеу</string>
+    <string name="abandoned_promises_title">"Бұл қолданба орнатылмаған"</string>
+    <string name="abandoned_promise_explanation"/>
+    <string name="app_downloading_title"/>
+    <string name="app_waiting_download_title"/>
+    <string name="action_add_to_workspace">Басты экранға қосу</string>
+    <string name="action_move_here">"Элементтімұндажылжыту"</string>
+    <string name="item_added_to_workspace">"Элементнегізгіэкранғақосылды"</string>
+    <string name="item_removed">"Элементжойылды"</string>
+    <string name="action_move">"Элементтіжылжыту"</string>
+    <string name="move_to_empty_cell">"<xliff:g id="NUMBER_0">%1$s</xliff:g>-жол,<xliff:g id="NUMBER_1">%2$s</xliff:g>-бағанғажылжыту"</string>
+    <string name="move_to_position">"<xliff:g id="NUMBER">%1$s</xliff:g>-орынғажылжыту"</string>
+    <string name="move_to_hotseat_position">"<xliff:g id="NUMBER">%1$s</xliff:g>нөмірлітаңдаулыорынғажылжыту"</string>
+    <string name="item_moved">"Элементжылжытылды"</string>
+    <string name="add_to_folder">"Қалтағақосу:<xliff:g id="NAME">%1$s</xliff:g>"</string>
+    <string name="add_to_folder_with_app">"<xliff:g id="NAME">%1$s</xliff:g>барқалтағақосу"</string>
+    <string name="added_to_folder">"Элементқалтағақосылды"</string>
+    <string name="create_folder_with">"Мынабарқалтаныжасау:<xliff:g id="NAME">%1$s</xliff:g>"</string>
+    <string name="folder_created">"Қалтажасалды"</string>
+    <string name="action_move_to_workspace">"Негізгіэкранғажылжыту"</string>
+    <string name="action_move_screen_left">"Экрандысолғажылжыту"</string>
+    <string name="action_move_screen_right">"Экрандыоңғажылжыту"</string>
+    <string name="screen_moved">"Экранжылжытылды"</string>
+    <string name="action_resize">Өлшемін өзгерту</string>
+    <string name="action_increase_width">"Енінарттыру"</string>
+    <string name="action_increase_height">"Биіктігінарттыру"</string>
+    <string name="action_decrease_width">"Еніназайту"</string>
+    <string name="action_decrease_height">"Биіктігіназайту"</string>
+    <string name="widget_resized">"Виджетөлшемініңені<xliff:g id="NUMBER_0">%1$s</xliff:g>,биіктігі<xliff:g id="NUMBER_1">%2$s</xliff:g>болыпөзгертілді"</string>
+</resources>

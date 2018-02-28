@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的主题</string>
+	<string name="set_success">主题切换成功!</string>
+</resources>

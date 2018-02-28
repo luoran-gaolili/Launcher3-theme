@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gridview_hspace">8dip</dimen>
+    <dimen name="gridview_vspace">20dip</dimen>
+    <dimen name="gridview_margin_left">20dip</dimen>
+    <dimen name="gridview_margin_top">20dip</dimen>
+    <dimen name="gridview_margin_right">12dip</dimen>
+    <dimen name="gallery_margin">20dip</dimen>
+    <dimen name="dot_pad">10dip</dimen>
+</resources>
